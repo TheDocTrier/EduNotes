@@ -1,3 +1,3 @@
 # EduNotes
 
-\tThis repository is dedicated to storing notes about various subjects and books. 
+This repository is dedicated to storing notes about various subjects and books. 
