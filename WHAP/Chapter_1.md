@@ -1,6 +1,5 @@
 #Nature, Humanity, and History to 3500 B.C.E. 
 
-
 We are introduced to the ideas of very early human life and civilizations. The example given is the Yoruba people of West Africa, who had spawned their own creation myths concerning how they had come to be. In their case, they were ruled by a king known as Oduduwa, who was the son of the Divine Owner of the Sky. Also covered is the idea of how many different culture around the world developed their own creation myths, and how recent scientific research suggests that humans existed many times earlier than that proposed by many creation myths. Finally, we are proposed various questions that make us ponder on important ideas such as why humans advanced past many other species and how it could be connected with our larger brains.
 
 ##African Genesis
