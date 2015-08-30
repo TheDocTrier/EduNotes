@@ -36,5 +36,18 @@ By studying chimpanzees and gorillas, we can infer that early human families con
 
 **Changing Rules**
 
-##Environment + Technology: The Iceman
+##Environment + Technology: Environmental Stress on the Indus Valley
 
+The Indus Valey was thought to be wetter and more pleantiful in the third millenium, contributing towards the civilizations there. Now it is thought that during the second millenium the valley became drier and arid, conditions that have conrinued up to the present. The discovery of old river beds demonstrate the immense loss of suitable land, likely leading to the desertion of cities and villages. All of this information added together and we are able to see that it was than just technical change that lead to the downfall of the Indus civilization.
+
+##Conclusion 
+
+In this chapter we learned how modern humans came to fruition. As we progressed through the stages of neanderthals to homosapiens, our intellectual capacity increased and with it our ability to control our environment and reproduce, eventually populating the Earth. In a more psychological though, we also were given an understanding of information such as the evolution of tools and the roles genders played in society. To recap, we were able to infer that early humans came from africa, humans gained the knowledge to use tools, and developed laguage in order to better communicate with one another. 
+
+#Reflection
+
+Words {
+	Evolution: I chose evolution because I believe this chapter put a large amount of stress on the development of early humans over long periods of time. We evolved from creatures resembling primates, to the collection of flesh we know today as the modern human. 
+	Culture: I chose culture since this chapter touched on psychological aspects such as gender roles. These have a lot to do with the society early humans lived in, and decribes their views on indivdual subjects. 
+	Intelligence: Intelligence was tied into evolution in this chapter. As humans evolved they became more intelligent. This was demonstrated by the tools they used in order to gain the upper hand, even though they didn't have the greatest physical strength. 
+}
