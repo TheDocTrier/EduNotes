@@ -2,14 +2,7 @@
 <?xml lang="en"?>
 
 <chapter number="32">
-	
-	<block p="1">
-		
-		<note id="A">
-			
-		</node>
-	</block>
-	<block p="3">
-		
-	</block>
+	<page id="1">
+        
+    </page>
 </chapter>
