@@ -18,8 +18,16 @@ We talk of Confucius and his teachings. To summarize, *ren* is the ability in al
 
 ##Environment + Technology: Divination in Ancient Societies 
 
-**TODO**
+Divination is the method by which people aquire information from divine entities or gods. In many of the societies we're talking about, it was common for people of higher status to associate themselves with devine powers in order to provide explanation concerning phenomena to the rest of society. Oracle bones were a common method, along with astrology for providing predictions about coming events. In some societies, the women of a family were considered oracles, and would make predictions on subjects such child naming and the cures to illness. This section describes divination as a technology since it was actually a development for the society that helped them to put an understanding to the randomness associated with the world. 
 
 ##Conclusion 
 
 China has had numerous forms of government and has continually produced food in there harsh geography. Nubia, as well as many other civilizations, were able to control trade routes and large resource heavy areas in order to increase the wealth of the upper-class. The Olmec and Chavin were both civilizations experienced in the art of gathering labor in order to build monumental structures. Over and over again, we see religion being used as a tool to control society and organize them to benefit for the prestigious class. Finally, we notice how many of these civilizations built large civic centers in order to strengthen the presence of their society and culture in the area. 
+
+#Reflection 
+
+words {
+	divination: Divination fits to describe this chapter because of how prevelant the subject was in each of these civilizations towards the society being able to understand in their own way natural phenomena. 
+	caste: Caste makes sense in this chapter since the caste uses divination as a way to ensure their own position in their caste. 
+	charisma: The word charisma has been chosen because it is at the root of any good ruler. Charisma is what allowed many of these rulers from these civilizations the ability to organize a work force to build projects. 
+}
