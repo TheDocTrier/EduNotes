@@ -40,4 +40,6 @@ During this chapter we have realized that many conquerors, while taking control 
 
 #Reflection 
 
-TODO
+Topic: Change
+
+Description: I believe that the topic of this chapter can be selected as change because of the empires and civilizations prevelent in the text. First, the Assyrian Empire was a great change to many societies, as it was a very centralized power civilization, and it forced other to change their ways in order to adapt their own. Another civilization that underwent change was Israel, as it switched hands multiple times, and transformed its societal structure on numerous occasions. For example, when one of its population thought that class destinctions were becoming too prevelent and decided to encourage a reform in the government. 
