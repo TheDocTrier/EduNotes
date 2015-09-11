@@ -10,7 +10,11 @@ The geology in Greece was very tough for collecting supplies and gathering multi
 
 ##The Struggle of Persia and Greece, 546 - 323 B.C.E. 
 
-Greece civilizations experienced excruciating war with the Persian Empire, although they resisted and eventually formed the Delian League, lead by Athenians, and were able to force out the Persians and protect most Greek city-states. 
+Greece civilizations experienced excruciating war with the Persian Empire, although they resisted and eventually formed the Delian League, lead by Athenians, and were able to force out the Persians and protect most Greek city-states. There were multiple important philosophers at this time, and Socrates was one of them, although eventualy being executed, his disciple Plato founded an academy and taught people about many subjects, Plato also tutored Alexander the Great eventually. Inequality was common in Greece, especially among men and women with the first having muc greater rights than the latter, the section disccusses how this lead to bisexuality being more prevelent than usual in Greece. Conflict arose between Athens and Sparta, partly because of the Delian League, and war between the two societies lead to Sparta being victorious, although Macedonia eventually took control and dominated much of the area under the rule of Alexander the Great. 
+
+##The Hellenistic Synthesis 
+
+The Hellenistic age marked the era in which the Macedonian kingdoms expanded and spread Greek culture around their area of the world and pushed it onto peoples. Egypt was controlled by the Ptolemies and was used in order to gain vast amounts of wealth while discarding much of the original Egyptian culture. The Greeks enjoyed many specialty priviledges and made many discoveries in the fields of science, mathematics, and astronomy. 
 
 ##Diversity and Dominance 
 
@@ -19,3 +23,13 @@ We learn about how Darius carved himself and an inscription on the side of a cli
 ##Environment + Technology 
 
 Farmers of Greece used signs from their environment in order to make predictions and schedule jobs. This section is about a specific farmer who is describing the signs to look for in order to know what process to attend to. The signs include phenomena such as constellations and their movement across the sky, blooming of plants, and changes in the atmosphere (clouds, etc.). 
+
+##Conclusion 
+
+The Persians established strong connections that provided control through their public and political relations. The Zoroastrian religion marked one of the first monotheistic religion, an it provided assurance for the position of the ruler. Eventually the Greeks fought back against the Persians bu internal conflicts lead to the Peloponnesian War. Finally in this chapter, the Greeks spread out over large amounts of the surrounding areas and brought with them their Hellenistic ideas and creating new discoveries. 
+
+#Reflection 
+
+Topic: Conflict 
+
+Description: I chose conflict because I believe that the civilizations in this chapter maintained their power and position through continuous conflict. Civilizations such as the Persian Empire dominated many of their neighbors because they avoided conflict through the use of propaganda and fair rules. The Greeks on the other hand exerienced local conflict between nearby states, allowing them to be vulnerable to larger civilizations out of sight. This lead them to band together and endure in a conflict of larger scale that eventually was their best option as it protected them from the powerful Persians at the time. To end, the Greeks stirred up conflict in other parts of the world as they pushed their Hellenistic ideas outwards. 
