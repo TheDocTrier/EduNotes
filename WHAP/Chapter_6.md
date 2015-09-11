@@ -27,7 +27,7 @@ Belief systems have been a key part of all societies and remained a key part of 
 #Reflection 
 
 words = {
-	mathematics = **TODO**, 
-	tolerance = **TODO**, 
-	caste = **TODO**, 
+	mathematics = Mathematics is a key defining characteristic of this chapter because India developed the first base ten math system which allowed for great numbers to be modified with general ease. This allowed people to keep track of numbers never before possible, a major contribution to modern technology. 
+	tolerance = Surprisingly, many of the civilizations discussed above had a fair amount of religious tolerance for their time. An example of this would be the Mauryan empire which permitted for the practice of religions not the same as the government's standard, although still maintaining power. 
+	caste = Although almost self explanatory, caste was a large piece of Indian culture and still exists today. For exmaple, while the varna was in use, Indian people abiding to its code practiced strict class distinctions between groups. This lead to some humans being worth more than others, but was balanced by the idea that karma decided the class you would live in, and if you were good, you could advance in the next life. 
 }
