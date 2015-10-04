@@ -30,12 +30,12 @@ China was unified under the Sui and Tang and grew both polically and economicall
 
 #Reflection 
 
-words \{
+words {
 	
-	unification: China was repeatedly broken down and reunified. The Sui and Tang are a testament to this cycle of events. China is notorious for being separated by events, whether it was barabrians, or internal conflict. The chapter makes sure that it touches on this subject multiple times, as it is a defining characteristic of China's history. 
+unification: China was repeatedly broken down and reunified. The Sui and Tang are a testament to this cycle of events. China is notorious for being separated by events, whether it was barabrians, or internal conflict. The chapter makes sure that it touches on this subject multiple times, as it is a defining characteristic of China's history. 
 	
-	beliefSystem: Belief systems were hugely popular in China. Specifically Buddhism and Confucianism, with the latter being the most popular. Buddhism caused many monastaries to be built but eventually destroyed during the backlash of Buddhism, and Confucianism was used as a system to maintain government and personal ideals. 
+beliefSystem: Belief systems were hugely popular in China. Specifically Buddhism and Confucianism, with the latter being the most popular. Buddhism caused many monastaries to be built but eventually destroyed during the backlash of Buddhism, and Confucianism was used as a system to maintain government and personal ideals. 
 	
-	technology: China developed a variety of technologies. THe most influential of the time was probably the advances in agriculture, as they allowed for increased food production and the population of large cities. China also developed methods for tracking the passing of time, and this increased their ability to perform trade, as their ships were able to better navigate. 
+technology: China developed a variety of technologies. THe most influential of the time was probably the advances in agriculture, as they allowed for increased food production and the population of large cities. China also developed methods for tracking the passing of time, and this increased their ability to perform trade, as their ships were able to better navigate. 
 	
-\}
+}
