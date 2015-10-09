@@ -52,8 +52,26 @@ Includes opinions not directly taken from factual documents.
 
 24. Each of these stories is an epic concerning different individuals. Like the *Epic of Gilgamesh*, these epics give of insight into the lifestyles of the environment around the main characters. Although the author puts most of the focus on the characters, we see in terms of history the settings the author describes and we use that knowledge to infer more events of the past.
 
-25. The Mauryan empire was more successful as it held a very centralized government that could persuade the people living in the empire. Along with this they had a strong military that kept power located and belonging to the capital. Both of the empires held monopolies in their area and set up large taxes on the population in order to sustain the government. But the Mauryan made contributions in social reform, such as religious acceptance, while the Gupta instead used the extra income to support their theater state. 
+25. The Mauryan empire was more successful as it held a very centralized government that could persuade the people living in the empire. Along with this they had a strong military that kept power located and belonging to the capital. Both of the empires held monopolies in their area and set up large taxes on the population in order to sustain the government. But the Mauryan made contributions in social reform, such as religious acceptance, while the Gupta instead used the extra income to support their theater state.
 
 26. In terms of opinionated sayings. The Mauryan empire was more advance than the Gupta. Not because of technological innovations but instead because of cultural innovations. The Mauryans developed a key idea for having a peaceful society, and that is the concept of tolerance, in many forms. Here it specifically applies to religious tolerance, yet the king, Ashoka understood the need for force at times.
 
-27.
+27. There were multiple reasons that the social status of women declined during the Gupta Empire. A large piece of the puzzle had to do with the popularization of the idea that the men of a family should be the ones to inherit financial assets. Along with this, women were supposed to relinquish their assets to their husband, and not remarry if their previous husband died.
+
+28. I don't believe that it can be argued that Indian mathematicians were superior to the Roman people of the same practice, since both made contributions. It is true that Indian mathematicians are likely the origin of our base ten number system but that shouldn't be considered the most important contribution due to sheer abundance.
+
+29. The Indian empires relied on a Persian like government structure which relied on the loyalty of local rulers and the allegiance to the capital. The Indian empires also suffered from many of the same issues as Rome and China such the rapid expansion of an empire that needed to bring in more wealth in order to sustain itself.
+
+30. Southeast Asia was home to the Chinese empires and India was home to the Indian empires. They shared many characteristics, especially in culture, due to the ease of trade that merchants took advantage of between the two areas. The powers in Southeast Asia were consistently concerned with the idea that unification was the right path to try and lead the empire in. Shi Huangdi acted as an example of this when he unified China. In India they the large empires of the time decided to leave a majority of the power with smaller rulers.
+
+31. The Arabic numerals are a testament to the freedom the Indian thinkers had at the time in their society. Ahsoka of the Mauryan empire demonstrated and taught religious tolerance. This helped to make people feel more comfortable in there culture and therefore were more likely to generate more interesting ideas that could benefit others in the long run.
+
+32. The "theater-state" of the Mauryan empire really contrasts Shi Huangdi's legalist empire. This is because the theater state encouraged the rapid development of culture and promoted the growth of new ideas. These were used in order to impress other nations with the power of the state. In the Qin Empire on the other hand, the legalist form of government actively suppressed new ideas with the promotion of using the same proven legalist ideals. This reduced the cultural development of China at that time.
+
+33. Mahayana Buddhists are like the early Christians because they encouraged people to provide donations to their monasteries in order to put the contributors in a better light. In the same way, early Christianity accepted donations from the public with the gift of pardons for sins. This was frowned upon by the lower class of Christianity. And in China, thousands of Buddhist monasteries were destroyed after the public became critical of the power the monasteries held.
+
+34.
+
+35.
+
+36. Confucianism had the largest impact on its society. Chinese government has been influenced if not centered around Confucian beliefs for centuries. Confucianism is a belief system that describes how people should situate themselves in relation to all other people. It stresses the idea that everyone has their place in life, in terms of rank, between one and another, with the exception being the emperor. This prevented people from readily believing that they could move up in life, and therefore social mobility was constricted. Later in Chinese history, Confucianism became so iconic that in order to become a Chinese official, people were required to score highly on standard tests based on Confucian texts. With its idealogy of attempting to be the best you can be, for the state, Confucianism has stood the test of time, as it has been adopted by countless political orders over China's lifetime.
