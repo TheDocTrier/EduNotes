@@ -8,7 +8,7 @@ Mesopotamian society was very advanced for its time and contained complete popul
 
 The postclassic period was a result of overpopulation, driving civilizations to compete more heavily for human resources. The Toltecs were one of the first postclassic peoples and they made most of their impact in architecture, politics, and war. The Aztecs were another civilization of Mesoamerica that was heavily involved with military position, rather than blood line, and they practiced the idea of tributes to the ruler. The Aztecs are known for their human sacrifices, but more importantly, they had a merchant class who held near as much power as the nobles.
 
-# Northern Peoples
+## Northern Peoples
 
 Irrigation in Northern areas was able to support large crops such as beans and maize which were later introduced into Mesoamerica and allowed for the large population gain that we have already observed in the previous section. The Anasazi communities of the Northern areas had to develop complex irrigation systems, and did, including developing the Mesoamerican ball courts. The Mississippians were called mound builders because of the mound-like structures they created, and they had a system of government that was hereditary with a singular ruler or chieftain holding all of the power and being given many extra luxuries that could not be afforded by the lower class of the community.
 
