@@ -18,7 +18,7 @@ The Mughals, Safavids, and Ottomans were all subject to the problems that are br
 
 ## Diversity and Dominance: Islamic Law and Ottoman Rule
 
-Judging based on information provided by Ebu Su'ud, you can gain a good understanding of the legal views of the Ottoman Empire. He describes how the Ottoman's have very little tolerance for believers of other faiths that live in the Venetians in Crete, giving a look into Ottoman religious cooperation. The Ottomans also have affairs in creating conflict between themselves and the Shi'ites that live in Iran. They also maintained strict laws on the consumption of substances such as coffee which was associated with game playing. The same methodology follows for subjects such as thievery, which are based on previous associations. 
+Judging based on information provided by Ebu Su'ud, you can gain a good understanding of the legal views of the Ottoman Empire. He describes how the Ottoman's have very little tolerance for believers of other faiths that live in the Venetians in Crete, giving a look into Ottoman religious cooperation. The Ottomans also have affairs in creating conflict between themselves and the Shi'ites that live in Iran. They also maintained strict laws on the consumption of substances such as coffee which was associated with game playing. The same methodology follows for subjects such as thievery, which are based on previous associations.
 
 ## Environment and Technology: Metal Currency and Inflation
 
@@ -26,6 +26,16 @@ Metal was the normal material for creating currency before the nineteenth centur
 
 ## Conclusion
 
-
+The Empires discussed in this chapter concerned themselves primarily with the mass expansion of their regions and not with their economies. Europe was excelling in terms of economy. With the new innovations such as joint-stock companies, people could fund large expeditions while sharing the risk of failure. The governments of the Ottomans, Mughals, and Safavids relied on techniques such as land grant that just weren't able to supply the taxes the government needed.
 
 # Reflection
+
+words {
+
+Islam: Islam was a key part of this chapter as different empires adopted different branches of Islam, this created large amounts of tension between peoples which would otherwise be able to live together mutually.
+
+Expense: The various states discussed in this chapter all had issues with managing their expenses. As their empires increased in size, their militaries did as well. Like any other form of labor, the government spent its taxes on these branches, leaving no room for cushioning their economies.
+
+Income: A large part of the downfall of these empires was due to the methods by which they collected taxes. The most common method was through the use of land grants which produced a specific amount over a period of time. Once Spain began producing tons of precious metal, the price of local currencies plummeted until people could no longer be supported by previous fixed rates. 
+
+}
