@@ -2,44 +2,48 @@
 
 ## The Stalin Revolution
 
-
+Stalin was able to successfully lead Russia to gain its position as a great of the globe and this lead to the increased popularity and belief in the success of communism. One of Joseph Stalin's most productive plans was the Five Year Plan which was a system that was put into place in order to take full control of the Russian people to force them into changing their methods and industrializing. One of the fields that Russia made great improvements in was agriculture as they took the kulak class and effectively eliminated them while they liquidated all of the land that was privately owned. Eventually this backfired as Stalin refocused efforts towards heavy industry and neglected the production of foods for the peasants. In order to keep and maintain control over the populace a secret police called the NKVD was used under Stalin's command to continually put fear in the minds of the country and to wipe out opposition.
 
 ## The Depression
 
-
+The Depression was an event the crashed upon the United States but had other effects around the world. This was mostly caused by a severe crash and drop in prices of the stock market. This caused a landslide of poor effects that really acted in a catch 22 sort of manner, where consumers bought less goods, which lead to the manufacturers producing less products because people were not buying them. The Depressions spread to the rest of the world when people in New York began trying to take in their loans all at once when they feared where the market was heading, this brought Europe into the mix who was now having difficulties paying their own internal debts. These poor conditions were handled ok by some, but not so by others, as countries such as Germany became headed by radical leaders. In the non-industrial countries, the depression had other effects such as devaluing the major exports such as cotton and rubber.
 
 ## The Rise of Fascism
 
-
+Fascism began taking the minds of citizens by storm all across Europe, while focusing in a few countries, cause by their lack of faith in the democratic systems that had lead to the depression they were currently experiencing. Benito Mussolini is a great example of a radical fascist leader who found a way to come to power as in Italy he was able to convince the current parliament to submit and had over power to him due to his great public following. Then Adolf Hitler, everyone's favorite fascist, took control of Germany and used the anger of the German people to his advantage as they had pent up rage from having to deal with the rules agreed upon at the Treaty of Versailles, which crippled the German nation. Hitler had a goal to reclaim land that once belonged to Germany if not more so, as he believed that Germany and its Aryan race was just in subjugating everyone beneath them.
 
 ## East Asia, 1931 - 1945
 
-
+If we shift our focus towards East Asia we can observe how Japan was separating themselves once again from the Western powers seeing that they could be able to be successful all on their own. Then you see China which was experiencing political and economic upheaval just as much as the next country, leading them to adopt communism like many others, and to accept Mao Zedong as their leader. This lead to a few good consequences such as general equality for women, but overall had much more disastrous problems such as the fall of Chinese classes. Japan decided to continue on their path of taking whatever they felt like and disregarding the opinions of the West, leading them to take China's coastal cities and even sink a western warship or two. This was met with very little resistance since the western countries were extremely occupied with trying to handle matters on their own fronts.
 
 ## The Second World War
 
-
+The Second World War was a drastic change from the First World War as it was more intense and much more expansive. This meant that it was focused on not just pursuing small battles on the fronts of the field but was instead issuing new tactics that had never been seen before, such as that of killing both soldiers and citizens since it became widely known that a destroyed economy could not support a successful army, leading to the huge death counts we see today as citizens became targets. Germany was almost able to successfully win the war but their were ultimately unable to conquer Britain and they were defeated when the encroached on the Russian lands during a harsh winter, like what Napoleon had done years ago. When you look at Asia and the Pacific you witness the events that occurred at Pearl Harbor, drawing the Americans into the war and eventually leading to Japan's defeat as they lost resources. The Allies gathered their forces and on D-Day moved into France and later defeated the Germans through sheer numbers. Almost at the end of the war the final pin is placed as the US drops the first atomic bomb on the cities of Hiroshima and Nagasaki.
 
 ## The Character of War
 
-
+World War Two was very focused on the use of revolutionary technologies, or at least they were revolutionary in terms of warfare, and this included things such as synthetic rubber, radar, and cryptographic codes, all technology that hadn't existed previously. Another aspect of this war that set it apart from others, specifically the first world war, was that as previously mentioned armed forces were no longer aiming at just the soldiers and the military, they began firing upon civilians and non-militarized districts because they saw the catastrophic effects a crippled economy could have on another country's war efforts. The Holocaust must also be mentioned because it was one of the key parts of the war that people remember today, because it was used by the Germans as a way to rally support against a common enemy that they could dehumanize. The civilizations that lived on the warfront were in constant terror due to the constant bombings that occurred. In the US however, the effects of the war were not that of consistent terror, but instead mostly economic well-being as the war provided large numbers of jobs, allowing the economy to boom after the depression. After World War II, the environment has since felt continual stress from the adamant consumers.
 
 ## Diversity and Dominance: Women, Family Values, and the Russian Revolution
 
-
+Although some of the views of the communist revolutionaries seem correct and common to us today, such as the equality of women in "love, sex, and marriage" among other things, they also had opinions that we would oppose now. One such opinion was that children were supposed to be communal, meaning that a child did not belong to its parents but instead should belong to the community as a whole, "the common possession of all workers." On the topic of abortion for example, Alexandra Kollontai, a Russian Bolshevik, criticized the Russians acceptance of abortion since she believed that Russia was not yet densely populated enough, and this gave reason to making abortion criminal. Specifically, she saw that child bearing was an obligation of the women of Soviet Russia, so as to supply the community with a labor unit. Overall, we can imply that the Soviets have a high image of themselves when it comes to raising their young, as Alexandra describes their dedication.
 
 ## Environment and Technology: Biomedical Technologies
 
-
+Biomedical technologies have lead to extreme health benefits all around the world, and this includes not only the industrialized countries but the non-industrialized as well, such as Africa. These benefits can be attributed to three main factors. The first factor is one of the most simple to understand, clean water, clean water is critical in supporting a healthy population and provides nearly universal benefits to one's health over polluted water. Secondly immunizations, immunizations have been around for a long time believe it or not, but they never met critical popularity until the late nineteenth century, and by that time it was clearly known that they were effective in stopping the spread of certain diseases. And last of all antibiotics, which are generally a recent discovery and field that has made a huge impact on the lives of individuals by allowing for death by infection to be almost completely eliminated.
 
 ## Conclusion
 
-
+Before the World War the world was dealing with the Depression and the scenes we have witnessed from areas such as New York communicate that the Depression was something that Americans tended to want to deny. But when we look towards Europe, we see the poor living conditions give rise to fascism among various countries as people are desperate to increase their standard of living and are willing to give up their liberties to get it. The war also lead to great scientific advances, although most of the technologies were related to new methods of destruction. After the war finally met a close, the US and Russia decided to take over a lot of the leftover power that was sitting around from Germany and Japan. Finally, one of the other important effects of the second world war was that it destroyed nearly all of the European remote colonies and left places such as Asia, Africa, and India to be reclaimed by the previous peoples.
 
 # Reflection
 
 words {
 
+Depression: Depression as an emotion was a key element in the events that occurred in this chapter. Germany started becoming aggressive and decided to follow a radical leader because the populace was depressed after being oppressed by the Treaty of Versailles which put them below the other nations, something that gets many people very angry.
 
+Leaders: Leaders were a very important part of this chapter. Whether you look at the weak leaders of the Allied European nations that relied to heavily on democracy and couldn't protect themselves. Or, you look at the fascist leader such as Stalin and Hitler who were amazing orators and were able to move the masses with their talent. Sometimes it was done through fear, and sometimes it was done through relatability, but it was always powerful. 
+
+War: This might look like an easy word to choose, and that's because it is. The Second World War was critical in defining the new method by which wars were fought. No longer were they constrained to small battlefields, no, now longer range weaponry could be fired from a distance and to a distance. No longer were enemy soldiers the only objective, no, now citizens were seen as just as important since they were the life-blood of the soldiers you fought. And to cap it off, this war lead to new weapons such as the first atom bomb.
 
 }
