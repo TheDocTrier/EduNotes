@@ -1,35 +1,37 @@
 # The Cold War and Decolonization, 1945 - 1975
 
-
-
 ## The Cold War
 
-
+Directly after the second World War we are immediately confronted with another impending threat, as Russia demonstrates that they have strong power and are in the position to instigate worldwide revolutionary actions, which inspires the creation of NATO or the North Atlantic Treaty Organization to defend against Russia. The grouping of the Western nations in fear of the Russian power actually worked contradictory to the Western effort as Russia began feeling threatened themselves and therefore go into apprehension. Just to add insult to the injury that was affecting all of these nations, when plans were put in place to help rebuild the continent like the World Bank, Russia participated but actively controlled its own inner systems that rose suspicion from outside nations. Another key event that created tensions between the large nations of the Soviet Union, the United States, and China was the Korean war, because it kept the allying nations under stress to not disrupt the other. Finally, one of the most iconic parts of the Cold War was the race of the nations for nuclear power as the Soviet Union and the United States held each other at gun's length, until an eventual peace was settled between the nations tat was based on tactical equality.
 
 ## Decolonization and Nation Building
 
-
+Nations in the regions of South and Southeast Asia began to emerge and some of the most important of these new nations included Pakistan and the Dutch East Indies which were both demonstrations of further decolonization and the want for minority groups to achieve their own specific rights, with the common solution being to found a new state that can conform to one's own beliefs. Later on, we see the independence of Africa become fully realized as the British and other countries that were holding colonies within the region began to tire of spending their resources on the small locations, providing the opportunity for African leaders to rise up and form new independent states such as Ghana and Kenya. If we shift our attention towards Latin America we can see many of the same procedures taking place, especially with the desire of the regions to gain power and their own sense of independence, as they were tired of dealing with much of the United States continued intervention, such as the CIA keeping tabs on the leaders of Cuba and ensuring foreign interests were kept in mind. Fidel Castro's victory over the United States and their attempt to overthrow him gave new inspiration to the other Latin American nations.
 
 ## Beyond a Bipolar World
 
-
+While we tend to focus only on the large nations and the superpowers such as Russia and the United States, it's important to note the significance of the smaller nations, specifically the ones that were not participating in any large alliances, leaving them to be named Third World countries. As the large countries were distracting themselves with the Cold War and their mutual threat towards one another, the Japanese and Chinese decided to make the most of the free time and began rebuilding their states, Japan made great leaps as they established peace with past enemies and grew their industry and trade among nations, China instituted reforms such as the Cultural Revolution in their own attempts to enhance their once weak nation. In the Middle East a very important and significant event in time was definitely Israel's surprise independence that angered numerous Arabs and cause mass outrage as countless Palestinians became refugees and the Israeli power persisted through the pressures of the surrounding nations all at the same time, creating a harsh tension between the countries there that still exists today. This is also one of the first times where we see the use of restricting resources as a way to punish nations as the Arab nations began to withhold oil from the Europeans and the United States.
 
 ## Environment and Technology: The Green Revolution
 
-
+After the second World War, the possibility of a global food shortage seemed to almost become a reality that would have shaken many nations around the world, and increased those apprehension strings between the various nations. Luckily, all over countries were beginning movements such as the education of their farmers and the supplying of their farmers with the correct plants that could most efficiently produce crops, leading to the Green Revolution. These improvements continued to be discovered and new strains of crops such as wheat and corn spread like wildfire into new and developing nations, eliminating the fear that these countries had of experiencing severe food shortages.
 
 ## Diversity and Dominance: Race and the Struggle for Justice in South Africa
 
-
+Steve Biko was one of the key activists that sought to spread and popularize the importance of African cultures even in the face of European adversity that tended to occupy many of the African regions. Even though slavery was mostly if not completely abolished in Africa after Britain's actions to free the slaves, many Africans such as Biko were still concerned with the rights that they believed were being withheld from them, leading to creation of groups such as the Black Consciousness Movement which fought for exactly these reasons. One of the big reasons that there infringement of rights was so worried about was because they recently witnessed the brutality that some Europeans had in dealing with political activists that spoke out such as Biko, who they interrogated, beat, and denied medical attention to.
 
 ## Conclusion
 
-
+The second World War was a shock to people all around the globe and the Cold War was almost a necessary consequence due to the power of nuclear weapons that was now discovered from the war. The Cold War was commonly seen as a war between Capitalism and Socialism but it was actually a lot more generalized than that and had to do primarily with the threat that each superpower posed to the other and how this threat put them into a short standoff that ended in tactical peace. The end of the Cold War is a topic that is frequently debated but it is generally viewed as the period after which many of the smaller nations around the world such as the regions of Africa, the East Indies, and Pakistan gained their own independence from the European powers that existed over and oppressed them for many years, India in Pakistan's case. While the superpowers were taking part in the Cold War we saw the emergence of not only the new nations but old ones that were on the rise, such as China and Japan.
 
 # Reflection
 
 words {
 
+Distrust: Distrust played a major role in this chapter, especially in the case of the Cold War, which was almost entirely centered around the mutual distrust between nations concerning their use and possession of nuclear weapons that had the ability to destroy environments and regions.
 
+Independence: Another part of the chapter that was heavily focused on was the opportunities that the war provided for new and developing countries. They quickly emerged and were able to gain their independence from their larger states prior, and in Europe's case a position of decolonization.
+
+Rebuilding: Finally, we saw some of the previously powerful nations rebuilding during the Cold War after their defeat during previous time periods and the second World War. China took advantage of the opportunity and began setting up their new government systems and expanding their power while Japan recognized that they were going to have to adapt to the new limitations that had been placed on them, and this was found in industrialization and expansive trade with outside countries through peace treaties. 
 
 }
